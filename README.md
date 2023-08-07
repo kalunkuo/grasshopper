@@ -18,3 +18,5 @@
 
 ### SCI6478_InformalRobotics: WIP
 
+### SCI6483_ProcedualFields: 
+<br> Final Tactile Painting: Assistive Toolbox for Visual Impairment: https://kuomaje.cargo.site/T6
